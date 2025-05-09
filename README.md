@@ -2,7 +2,7 @@
 
 Crypto Dashboard is a modern and visually attractive **cryptocurrency dashboard** application built with the latest web technologies, including TypeScript, **Next.js**, React, and Tailwind CSS. This project is designed to provide a smooth and highly configurable user experience with **real-time data**.
 
-![Image](https://github.com/user-attachments/assets/3a4cc29a-5e1d-43a6-a81c-e885cdcab9e1)
+![Image](https://github.com/user-attachments/assets/0b32e54a-c6bf-4bc9-bd7f-37207644e043)
 
 ## Technologies
 
